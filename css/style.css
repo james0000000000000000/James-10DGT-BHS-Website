@@ -21,8 +21,8 @@ nav ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
+  background-color: red;
   overflow: hidden;
-  background-color: #781c1c;
   top: 0;
   width: 100%;
   text-align: center;
@@ -49,14 +49,14 @@ nav li:hover{
 }
 
 nav #active{
-  background-color: #da1b1b;
+  background-color: #690202;
 }
 
 /* Styling for the main section*/
 /* This is the line between the main section and footer */
 main{
   border-bottom: 3px solid;
-  color: #ff4d4d;
+  color: #ffffff;
 }
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
